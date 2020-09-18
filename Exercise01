@@ -1,0 +1,10 @@
+1. Write a program that asks the user’s name, and then greets theuser by name. 
+   Before outputting the user’s name, convert it to upper case letters. 
+   For example, if the user’sname is Fred, then the program should respond “Hello, FRED, nice to meet you!”
+2. Write AboutMe.java - a program that produces output describing yourself, such as:
+   Name:    John Doe
+   Gender:  Male
+   Year:    Freshman
+   Phone:   234-867-8721
+   Hobbies: Swimming, volleyball
+   Quote:   "Laugh while you can, monkey-boy!"
